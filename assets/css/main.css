@@ -900,6 +900,7 @@
 	}
 
 		#main .avatar {
+			width: 122px;
 			position: relative;
 			display: block;
 			margin-bottom: 1.5em;
